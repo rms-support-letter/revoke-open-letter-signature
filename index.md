@@ -5,7 +5,7 @@ description: A list of signatures removed from the letter against RMS and the FS
 locale: en_US
 ---
 
-2021-04-10
+2021-04-11
 
 Some people have asked to remove their signatures from the letter against Stallman and the FSF, and the people who run it won't let them.
 If you want to remove your signature from it but are unable to do so, you can state your intention to do so here.

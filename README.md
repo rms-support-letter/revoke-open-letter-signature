@@ -17,9 +17,6 @@ If you want to support the letter **without using Github**, go here: https://cod
 
 Please note that you will need to verify your identity beyond reasonable doubt to have your signature removed. Ideally, use the same account you have used to create your original signature. If that's not possible, use the same email. We are open to other methods of verification such as signed patches, timestamped photographs, and so on.
 
-## Our friends
-https://stallmansupport.org/
-
 ## Contact
 If you are a member of the press, a youtuber, or representing other news outlets, you can contact us under this email:
 - [rms-support-letter@protonmail.com](mailto:rms-support-letter@protonmail.com)

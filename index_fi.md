@@ -5,7 +5,7 @@ description: Lista allekirjoituksista, jotka ovat poistettu Richard Stallmanin j
 locale: fi_FI
 ---
 
-2021-04-10
+2021-04-11
 
 Jotkut ovat halunneet poistaa allekirjoituksensa Richard Stallmanin ja FSF:n vastaisesta avoimesta kirjeestä, mutta avoimen kirjeen ylläpitäjät eivät salli heidän tehdä sitä. Mikäli haluat poistaa allekirjoituksesi mutta et voi tehdä isitä, voit esittää täällä aikeesi tehdä sen
 

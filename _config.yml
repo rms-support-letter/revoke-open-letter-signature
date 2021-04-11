@@ -1,0 +1,29 @@
+title: A list of signatures removed from the letter against RMS and the FSF
+baseurl: ""
+url: "https://rms-support-letter.github.io/revoke-open-letter-signature"
+
+github_username: rms-support-letter
+repository: rms-support-letter/revoke-open-letter-signature 
+
+collections:
+  translations:
+    output: true
+    permalink: /:name:output_ext
+
+
+# Build settings
+theme: minima
+
+exclude:
+  - .sass-cache/
+  - .jekyll-cache/
+  - gemfiles/
+  - Gemfile
+  - Gemfile.lock
+  - node_modules/
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
+  - CONTRIBUTING.md
+  - README*.md

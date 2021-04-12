@@ -7,7 +7,7 @@ locale: fi_FI
 
 2021-04-11
 
-Jotkut ovat halunneet mitätöidä allekirjoituksensa Richard Stallmanin ja FSF:n vastaisesta avoimesta kirjeestä, mutta avoimen kirjeen ylläpitäjät eivät salli heidän tehdä sitä. Mikäli haluat mitätöidä allekirjoituksesi mutta et voi tehdä isitä, voit esittää täällä aikeesi tehdä sen
+Jotkut ovat halunneet mitätöidä allekirjoituksensa Richard Stallmanin ja FSF:n vastaisesta avoimesta kirjeestä, mutta avoimen kirjeen ylläpitäjät eivät salli heidän tehdä sitä. Mikäli haluat mitätöidä allekirjoituksesi mutta et voi tehdä sitä, voit esittää täällä aikeesi tehdä sen
 
 Ilmoittaaksesi sinun aikeesi mitätöidä allekirjoituksesi, [lähetä pull request](https://github.com/rms-support-letter/revoke-open-letter-signature/pulls).
 Mitätöidäksesi allekirjoituksesi **ilman Githubia**, voit:
